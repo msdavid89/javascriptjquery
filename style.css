@@ -1,0 +1,17 @@
+#container {
+	overflow: auto;
+	margin: auto;
+	width: 960px;
+	height: 960px;
+}
+
+.square {
+	background-color: black;
+	float: left;
+	border: 1px solid white;
+	/*display: inline-block;*/
+}
+
+.new_row {
+	/*clear: both;*/
+}
